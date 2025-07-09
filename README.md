@@ -1,5 +1,7 @@
 # student-performance-predictor
 
+Project Completion Date: December 2022
+
 Student Performance Predictor
 This project focuses on predicting the performance of students based on various attributes using machine learning. The goal is to predict whether a student will pass or fail based on features like age, school, family background, study time, and more.
 
